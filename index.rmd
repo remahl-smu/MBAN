@@ -6,7 +6,6 @@
 </head>
 <body>
     <h1>MBAN Projects</h1>
-    <a href="/linkedin.html">LinkedIn</a>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id, consequuntur non, explicabo rerum nobis in veritatis vitae sint pariatur ut neque! Commodi, impedit ex ipsam voluptatibus hic asperiores amet cupiditate.</p>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id, consequuntur non, explicabo rerum nobis in veritatis vitae sint pariatur ut neque! Commodi, impedit ex ipsam voluptatibus hic asperiores amet cupiditate.</p>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id, consequuntur non, explicabo rerum nobis in veritatis vitae sint pariatur ut neque! Commodi, impedit ex ipsam voluptatibus hic asperiores amet cupiditate.</p>
